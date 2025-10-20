@@ -1,0 +1,8 @@
+isin,level,market_value_ttd,encumbrance,base_haircut
+TT-CB-RES-01,1,10000000,false,0.00
+TT-GOV-2028,1,8000000,false,0.00
+TT-GOV-2032,1,6000000,false,0.00
+TT-GOV-REPO,1,3000000,true,0.00
+TT-BANK-AAA-01,2A,7000000,false,0.15
+TT-BANK-AAA-02,2A,4000000,false,0.15
+TT-CORP-BBB-01,2B,3000000,false,0.50

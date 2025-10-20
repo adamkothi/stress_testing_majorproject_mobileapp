@@ -1,0 +1,9 @@
+category,type,currency,amount_ttd,stress_tag,is_fcy,notes
+Retail stable deposits,outflow,TTD,12000000,retail,false,
+Retail less-stable deposits,outflow,TTD,4000000,retail,false,
+Wholesale unsecured,outflow,USD,8000000,wholesale,true,USCP maturing
+Secured funding maturing,outflow,TTD,5000000,wholesale,false,repo unwind
+Derivatives collateral,outflow,TTD,2000000,none,false,variation margin
+Operational inflows,inflow,TTD,6000000,none,false,
+Securities coupons,inflow,USD,2000000,none,true,
+Other inflows,inflow,TTD,1000000,none,false,loan repayments
